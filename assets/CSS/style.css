@@ -1,0 +1,26 @@
+a{
+   cursor:default;
+   font-family: 'Titillium Web', sans-serif;
+}
+.home{
+   background-image:url(../Images/banner.png);
+   background-position: center center;
+   background-size: cover;
+   /* background-repeat: no-repeat; */
+   height: 100vh;
+    padding: 70px 0;
+}
+nav,footer{
+   background-color: #1E202B !important;
+   color: white!important;
+   box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;;
+}
+img{
+ width:64px;
+}
+label{
+   font-family: 'Titillium Web', sans-serif;
+  
+}
+
+
