@@ -16,11 +16,17 @@ nav,footer{
    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;;
 }
 img{
- width:64px;
+ width:120px;
 }
 label{
    font-family: 'Titillium Web', sans-serif;
   
 }
-
+footer{
+   display: flex;
+   justify-content: space-evenly;
+}
+footer span{
+   font-family: 'Times New Roman', Times, serif;
+}
 
